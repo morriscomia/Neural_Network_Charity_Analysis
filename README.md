@@ -7,10 +7,8 @@ We use the following methods for the analysis:
 - preprocessing the data for the neural network model,
 - compile, train and evaluate the model,
 - optimize the model.
-- 
-## Results
 
-Results: Using bulleted lists and images to support your answers, address the following questions.
+## Results
 
 Data Preprocessing
 
